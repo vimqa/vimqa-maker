@@ -1,7 +1,7 @@
 # Multilingual Multi-hop Question-Answering Dataset Maker
 
 A tool for creating multilingual multi-hop Question-Answering datasets. This project uses MySQL and
-Java Spring.
+Java Spring. This tool is used to create the [VIMQA](https://github.com/vimqa/vimqa) dataset.
 
 ![Example screenshot](img/worker_interface.png "Example screenshot")
 
